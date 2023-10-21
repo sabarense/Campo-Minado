@@ -121,7 +121,7 @@ public class CampoTeste {
     void testeAbrirComVizinhos2() {
 
         Campo campo11 = new Campo(1, 1);
-        Campo campo12 = new Campo(1, 2);
+        Campo campo12 = new Campo(1, 1);
         campo12.minar();
 
         Campo campo22 = new Campo(2, 2);
